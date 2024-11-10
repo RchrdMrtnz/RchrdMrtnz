@@ -31,13 +31,6 @@ I'm a skilled backend developer specializing in Python and its rich ecosystem of
 
 ---
 
-## 🌟 Featured Projects
-
-- **[Project Name 1](#)**: Brief description of the project, tech stack used, and notable achievements.
-- **[Project Name 2](#)**: Brief description of the project, tech stack used, and notable achievements.
-
----
-
 ## 💡 Why Work with Me?
 
 - Proficiency in creating robust and secure backends.
