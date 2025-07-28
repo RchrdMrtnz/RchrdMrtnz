@@ -1,42 +1,59 @@
+<div align="center">
+
 # Hello, I'm Richard Pedraza! 👋
 
-### Passionate Backend Developer | Python Specialist | Full-Stack Enthusiast
+### Passionate Backend Developer | Python Specialist | Automation Engineer
 
-I'm a skilled backend developer specializing in Python and modern web technologies. With extensive experience in **Django**, **Django REST Framework**, and **FastAPI**, I build scalable, efficient, and high-performance backend solutions. I also bring frontend expertise with **React** and **Next.js** to deliver complete, seamless user experiences.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Solutions;Creating+Intelligent+Workflows;Integrating+AI+into+Applications" alt="Typing SVG" />
+
+</div>
+
+I'm a skilled backend developer specializing in Python and modern web technologies. With extensive experience in **Django**, **Django REST Framework**, and **FastAPI**, I build scalable, efficient, and high-performance backend solutions. I also bring frontend expertise with **React** and **Next.js** to deliver complete user experiences.
 
 ---
 
 ## 🚀 What I Do
 
 - 🔧 **Backend Development**: Building robust APIs and server-side applications
-- 🌐 **Full-Stack Solutions**: Creating end-to-end web applications
+- 🌐 **Full-Stack Solutions**: Creating end-to-end web applications  
 - ☁️ **Cloud Architecture**: Designing scalable solutions on AWS
-- 📊 **Data Engineering**: Processing and analyzing data for business insights
+- 🤖 **Automation Engineering**: Building intelligent workflows and AI-powered integrations
 
 ---
 
 ## 🛠️ Technical Skills
 
+<div align="center">
+
 ### **Core Technologies**
-- **Python**: Django, Flask, FastAPI, Django REST Framework
-- **JavaScript/TypeScript**: React, Next.js, Node.js
-- **Data Science**: Pandas, Prophet for analysis and forecasting
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### **Development Tools**
-- **API Development**: Postman, Axios, RESTful services
-- **DevOps**: Docker, containerization workflows
-- **Testing & Automation**: Selenium, automated testing suites
-- **Version Control**: Git, GitHub Actions, CI/CD pipelines
+### **Automation & AI Engineering**
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Process Automation](https://img.shields.io/badge/Workflow_Automation-FF6B6B?style=for-the-badge&logo=zapier&logoColor=white)
 
-### **Databases & Storage**
-- **Relational**: MySQL, PostgreSQL
-- **Database Design**: Schema optimization, query performance
+### **Cloud & Infrastructure**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### **Cloud Infrastructure (AWS)**
-- **Compute**: EC2 instances, auto-scaling groups
-- **Storage**: S3 buckets, data management
-- **Serverless**: Lambda functions, event-driven architecture
-- **API Management**: API Gateway, microservices
+</div>
+
+**Key Areas:**
+- **Python Frameworks**: Django, Flask, FastAPI, Django REST Framework
+- **Frontend**: React, Next.js, JavaScript/TypeScript
+- **Workflow Automation**: n8n integrations, intelligent process automation
+- **AI Integration**: Advanced prompt engineering, AI-powered solutions
+- **Cloud Services**: EC2, S3, Lambda functions, API Gateway
+- **Development Tools**: Docker, Git, Postman, Selenium
+- **Data Processing**: Pandas, Prophet for analysis and forecasting
 
 ---
 
@@ -44,24 +61,31 @@ I'm a skilled backend developer specializing in Python and modern web technologi
 
 ✅ **Proven Expertise**: Deep knowledge in backend architecture and modern frameworks  
 ✅ **Full-Stack Vision**: Understanding of both frontend and backend ecosystems  
+✅ **Automation Specialist**: Experience building intelligent workflows and AI integrations with n8n  
+✅ **AI-Powered Solutions**: Advanced prompt engineering skills for creating intelligent applications  
 ✅ **Cloud-Native**: Experience deploying scalable applications on AWS  
-✅ **Data-Driven**: Strong analytical skills for data processing and insights  
 ✅ **Quality Focus**: Emphasis on clean code, testing, and best practices
 
 ---
 
----
+<div align="center">
 
 ## 📬 Let's Connect!
 
-I'm always open to discussing new opportunities, collaborations, and exciting projects. Reach out through any of these channels:
-
-- 💼 **LinkedIn**: [linkedin.com/in/rchrd-pdrz1993](https://www.linkedin.com/in/rchrd-pdrz1993/)
-- 📧 **Email**: [rchrd.pdrz.mrtnz@gmail.com](mailto:rchrd.pdrz.mrtnz@gmail.com)
-- 📝 **Medium**: [medium.com/@rchrd.pdrz.mrtnz](https://medium.com/@rchrd.pdrz.mrtnz)
-
----
+<a href="https://www.linkedin.com/in/rchrd-pdrz1993/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:rchrd.pdrz.mrtnz@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://medium.com/@rchrd.pdrz.mrtnz">
+<img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white"/>
+</a>
 
 ### 🌟 Ready to Build Something Amazing?
 
-Whether you need a robust backend API, a full-stack web application, or cloud infrastructure setup, I'm here to help bring your vision to life. Let's create something extraordinary together! 🚀
+Whether you need a robust backend API, a full-stack web application, intelligent automation workflows, or cloud infrastructure setup, I'm here to help bring your vision to life. Let's create something extraordinary together! 🚀
+
+</div>
