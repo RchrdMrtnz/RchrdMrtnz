@@ -20,25 +20,6 @@ I'm a **Backend Developer** and **Tech Lead** passionate about building high-per
 
 I have experience leading technical teams, designing cloud architectures on **AWS**, and implementing **n8n** automation pipelines that drive business value. My goal is to create software that works for people, not the other way around.
 
-## GitHub Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RchrdMrtnz/RchrdMrtnz/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RchrdMrtnz/RchrdMrtnz/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/RchrdMrtnz/RchrdMrtnz/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<details>
-<summary>🎲 Random Facts</summary>
-<br>
-
-- I specialize in **n8n** to automate everything that can be automated.
-- I speak **English (C1)** and **Spanish**.
-- I've reduced valuation times by **70%** using algorithmic analysis.
-- I'm constantly learning—from **Prompt Engineering** to **Software Architecture**.
-
-</details>
-
 ## What I'm Working On
 
 - **AI Voice Agents** — Architecting real-time conversational flows with LLMs and TTS.
@@ -65,6 +46,8 @@ I have experience leading technical teams, designing cloud architectures on **AW
 | **EF SET** | English Certificate (C1 Advanced) |
 | **FreeCodeCamp** | Responsive Web Design |
 
+<div align="center">
+
 ## Tech Stack
 
 **Languages & Frameworks**
@@ -83,12 +66,19 @@ I have experience leading technical teams, designing cloud architectures on **AW
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
 
-**Data & Automation**
+**Data Engineering**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**Automation & AI Engineering**
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![AI Integration](https://img.shields.io/badge/AI_Integration-FF9900?style=flat-square&logo=openai&logoColor=white)
+![Process Automation](https://img.shields.io/badge/Process_Automation-00C7B7?style=flat-square&logo=zapier&logoColor=white)
+
+</div>
 
 ---
 
@@ -99,6 +89,3 @@ I'm available for **backend development**, **automation consulting**, and **tech
 [![Email](https://img.shields.io/badge/rchrd.pdrz.mrtnz@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rchrd.pdrz.mrtnz@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rchrd-pdrz1993/)
 [![Website](https://img.shields.io/badge/rchrdpdrz.com-2b55bc?style=flat-square&logo=google-chrome&logoColor=white)](https://www.rchrdpdrz.com/es)
-
----
-<p align="center">Made with ❤️ by Richard Pedraza</p>
