@@ -1,91 +1,104 @@
-<div align="center">
+# Richard Pedraza — Architecting Scalable Backends & AI Automations
 
-# Hello, I'm Richard Pedraza! 👋
+**Backend Developer | Tech Lead | Automation Specialist**
 
-### Passionate Backend Developer | Python Specialist | Automation Engineer
+> "Building the bridge between complex problems and elegant, automated solutions."
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Solutions;Creating+Intelligent+Workflows;Integrating+AI+into+Applications" alt="Typing SVG" />
+[![Website](https://img.shields.io/badge/rchrdpdrz.com-2b55bc?style=flat-square&logo=google-chrome&logoColor=white)](https://www.rchrdpdrz.com/es)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/RchrdMrtnz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rchrd-pdrz1993/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rchrd.pdrz.mrtnz@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@rchrd.pdrz.mrtnz)
 
-</div>
-
-I'm a skilled backend developer specializing in Python and modern web technologies. With extensive experience in **Django**, **Django REST Framework**, and **FastAPI**, I build scalable, efficient, and high-performance backend solutions. I also bring frontend expertise with **React** and **Next.js** to deliver complete user experiences.
-
----
-
-## 🚀 What I Do
-
-- 🔧 **Backend Development**: Building robust APIs and server-side applications
-- 🌐 **Full-Stack Solutions**: Creating end-to-end web applications  
-- ☁️ **Cloud Architecture**: Designing scalable solutions on AWS
-- 🤖 **Automation Engineering**: Building intelligent workflows and AI-powered integrations
+<br clear="right" />
 
 ---
 
-## 🛠️ Technical Skills
+## About Me
 
-<div align="center">
+I'm a **Backend Developer** and **Tech Lead** passionate about building high-performance APIs and automating workflows. With a strong foundation in **Python (Django, FastAPI)** and **AI integrations**, I turn manual processes into efficient, autonomous systems.
 
-### **Core Technologies**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-0070f3?style=for-the-badge&logo=vercel&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+I have experience leading technical teams, designing cloud architectures on **AWS**, and implementing **n8n** automation pipelines that drive business value. My goal is to create software that works for people, not the other way around.
 
-### **Automation & AI Engineering**
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![AI Integration](https://img.shields.io/badge/AI_Integration-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Process Automation](https://img.shields.io/badge/Workflow_Automation-FF6B6B?style=for-the-badge&logo=zapier&logoColor=white)
+## GitHub Activity
 
-### **Cloud & Infrastructure**
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RchrdMrtnz/RchrdMrtnz/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RchrdMrtnz/RchrdMrtnz/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/RchrdMrtnz/RchrdMrtnz/output/github-contribution-grid-snake.svg" />
+</picture>
 
-</div>
+<details>
+<summary>🎲 Random Facts</summary>
+<br>
 
-**Key Areas:**
-- **Python Frameworks**: Django, Flask, FastAPI, Django REST Framework
-- **Frontend**: React, Next.js, JavaScript/TypeScript
-- **Workflow Automation**: n8n integrations, intelligent process automation
-- **AI Integration**: Advanced prompt engineering, AI-powered solutions
-- **Cloud Services**: EC2, S3, Lambda functions, API Gateway
-- **Development Tools**: Docker, Git, Postman, Selenium
-- **Data Processing**: Pandas, Prophet for analysis and forecasting
+- I specialize in **n8n** to automate everything that can be automated.
+- I speak **English (C1)** and **Spanish**.
+- I've reduced valuation times by **70%** using algorithmic analysis.
+- I'm constantly learning—from **Prompt Engineering** to **Software Architecture**.
+
+</details>
+
+## What I'm Working On
+
+- **AI Voice Agents** — Architecting real-time conversational flows with LLMs and TTS.
+- **Backend Systems** — Optimizing RESTful/GraphQL APIs for high-volume operations.
+- **Automation Pipelines** — Integrating chatbots and diverse SaaS APIs using n8n.
+- **Cloud Infrastructure** — Managing production environments on AWS.
+
+## Featured Projects
+
+### 🔧 Engineering & Automation
+
+| Project | Description | Tech Stack |
+|:-----------|:------------|:-----:|
+| **AI Voice Agent** | Real-time conversational agent with streaming STT/TTS and LLM reasoning. | `Python` `LLM` `AWS` |
+| **Property Valuation System** | Automated system processing 5,000+ listings with 90% pricing accuracy. | `Python` `Pandas` `Scrapy` |
+| **Audio Transcription Platform** | Privacy-focused platform using FastAPI and Celery for distributed transcription. | `FastAPI` `Celery` `AI` |
+| **B2B Automation Suite** | AI-powered workflows integrating CRMs, ERPs, and marketing platforms. | `n8n` `Python` `APIs` |
+
+### 🎓 Certifications
+
+| Issuer | Certification |
+|:-----------|:------------|
+| **Platzi** | Software Engineering Fundamentals, Prompt Engineering, N8N, Flask, Django, Data & AI, Python Expert |
+| **EF SET** | English Certificate (C1 Advanced) |
+| **FreeCodeCamp** | Responsive Web Design |
+
+## Tech Stack
+
+**Languages & Frameworks**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-0070f3?style=flat-square&logo=next.js&logoColor=white)
+
+**Infrastructure & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
+
+**Data & Automation**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 ---
 
-## 💡 Why Choose Me?
+## Get in Touch
 
-✅ **Proven Expertise**: Deep knowledge in backend architecture and modern frameworks  
-✅ **Full-Stack Vision**: Understanding of both frontend and backend ecosystems  
-✅ **Automation Specialist**: Experience building intelligent workflows and AI integrations with n8n  
-✅ **AI-Powered Solutions**: Advanced prompt engineering skills for creating intelligent applications  
-✅ **Cloud-Native**: Experience deploying scalable applications on AWS  
-✅ **Quality Focus**: Emphasis on clean code, testing, and best practices
+I'm available for **backend development**, **automation consulting**, and **technical leadership** roles.
+
+[![Email](https://img.shields.io/badge/rchrd.pdrz.mrtnz@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rchrd.pdrz.mrtnz@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rchrd-pdrz1993/)
+[![Website](https://img.shields.io/badge/rchrdpdrz.com-2b55bc?style=flat-square&logo=google-chrome&logoColor=white)](https://www.rchrdpdrz.com/es)
 
 ---
-
-<div align="center">
-
-## 📬 Let's Connect!
-
-<a href="https://www.linkedin.com/in/rchrd-pdrz1993/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:rchrd.pdrz.mrtnz@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://medium.com/@rchrd.pdrz.mrtnz">
-<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-</a>
-
-### 🌟 Ready to Build Something Amazing?
-
-Whether you need a robust backend API, a full-stack web application, intelligent automation workflows, or cloud infrastructure setup, I'm here to help bring your vision to life. Let's create something extraordinary together! 🚀
-
-</div>
+<p align="center">Made with ❤️ by Richard Pedraza</p>
